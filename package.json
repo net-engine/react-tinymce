@@ -19,8 +19,7 @@
   "author": "Matt Zabriskie",
   "license": "MIT",
   "dependencies": {
-    "react": "^0.13.2",
-    "tinymce": "^4.1.10"
+    "react": "^0.13.2"
   },
   "devDependencies": {
     "envify": "^3.4.0",
